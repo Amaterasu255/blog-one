@@ -287,7 +287,7 @@ body {
 
     .sidebar {
 
-        display: none;
+        display: 100%;
     }
 
     /* Entradas en una sola columna */
