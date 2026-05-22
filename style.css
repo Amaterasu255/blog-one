@@ -288,6 +288,7 @@ body {
     .sidebar {
 
         display: grid;
+        grid-template-columns: 1fr;
     }
 
     /* Entradas en una sola columna */
