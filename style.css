@@ -287,7 +287,7 @@ body {
 
     .sidebar {
 
-        display: 100%;
+        display: grid;
     }
 
     /* Entradas en una sola columna */
